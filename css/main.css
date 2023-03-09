@@ -75,10 +75,10 @@ header h1{
 }
 
 .block{
-    width: 80%;
+    width: 400px;
     height: 400px;
     background-color: lightgray;
-    margin: auto;
+    margin: 0 auto;
     margin-top: 80px;
     border-radius: 5px;
 }
@@ -139,3 +139,40 @@ footer{
     padding-top: 50px;
    
 }
+
+.title{
+    margin-top: 40px;
+    text-align: center;
+}
+
+.main{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.square{
+    width: 100%;
+    min-height: 250px;
+    background-color: lightgray;
+    margin: auto;
+    margin-top: 25px;
+    border-radius: 5px;
+}
+
+
+.button{
+    width: 150px;
+    height: 35px;
+    background-color: #2b2b2b;
+    color: white;
+    border-radius: 5px;
+    padding-top: 5px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.section-head{
+    text-align: center;
+}
+
+
